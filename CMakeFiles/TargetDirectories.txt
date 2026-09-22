@@ -1,3 +1,0 @@
-/home/rinatolmach/projects/my_cpp_project/CMakeFiles/main.dir
-/home/rinatolmach/projects/my_cpp_project/CMakeFiles/edit_cache.dir
-/home/rinatolmach/projects/my_cpp_project/CMakeFiles/rebuild_cache.dir
